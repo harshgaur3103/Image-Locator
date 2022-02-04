@@ -10,7 +10,7 @@ For accessing image's metadata it uses a python module called **"exif"** .
 
 
 
-**REQUIREMENTS / INSTALLATION PROCESS : **
+**REQUIREMENTS / INSTALLATION PROCESS**
 
 1.) python version 3.7.9
 
@@ -26,7 +26,7 @@ For accessing image's metadata it uses a python module called **"exif"** .
 
 
 
-**THINGS TO BE REMEBER : **
+**THINGS TO BE REMEBER**
 
 1.) Chromedriver and main.py file both should be in same dicretroy.
 
@@ -34,7 +34,7 @@ For accessing image's metadata it uses a python module called **"exif"** .
 
 
 
-**STEPS OF USING : ->**
+**STEPS OF USING**
 
 1.) Run main.py file in python IDE/Terminal and click on select button.
 
@@ -46,5 +46,3 @@ For accessing image's metadata it uses a python module called **"exif"** .
 
 5.) Now click on find button then chromeweb driver automatically show you correct loaction of that image.
 
-
-*********************************************************************END********************************************************************************************
