@@ -1,17 +1,18 @@
-This Project is usefull for find the correct Location of any 
-Image by the help of this project you can esaly find the location at Gooogle Maps
+This Project is useful for find the Location of any Image.
+Image Locator can easily find the location on Gooogle Maps.
 
 
-Befor Run this project you'll need to install requeared Modules in python version 3.7.9
-pip install selenium
-pip install exif
-pip install PIL ( this module can be get by default intall as per your need )
-pip install tkinter (this module can be get by default intall as per your need )
+Requirements/Installation procedure : 
+1.) python version 3.7.9
+2.) pip install selenium
+3.) pip install exif
+4.) pip install PIL 
+5.) pip install tkinter 
+6.) Chrome browser
 
-NOTE:-> At the run time chromedriver and main.py file both should be keep in same dicretroy 
-NOTE:-> your chrome browser and chrome webdriver version must be same 
-NOTE:-> if you're vscode user then run this source code on CMD/terminal
-
+Usage : 
+1.) Chromedriver and main.py file both should be in same dicretroy.
+2.) Your chrome browser and chrome webdriver version must be same.
 
 USE Instruction:->
 Run this file in python IDE/Terminal and click at select button
