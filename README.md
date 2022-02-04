@@ -1,10 +1,12 @@
 **IMAGE LOCATOR**
 
-                This Project is useful for find the Location of any Image.Image Locator can easily find the location on Gooogle Maps.
+                This Project is useful for find the Location of any Image.
+                
+                Image Locator can easily find the location on Gooogle Maps.
 
-                Its GUI build on python **"TKINTER"** module.
+                Its GUI build on python **TKINTER** module.
 
-                It uses **"selenium technology"** for access chrome webdriver. 
+                It uses **selenium technology** for access chrome webdriver. 
 
                 For accessing image's metadata it uses a python module called **"exif"** . 
 
